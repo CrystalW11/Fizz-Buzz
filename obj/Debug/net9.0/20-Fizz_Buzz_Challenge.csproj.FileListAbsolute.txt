@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\bin\Debug\net9.0\20-Fizz_Buzz_Challenge.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\bin\Debug\net9.0\20-Fizz_Buzz_Challenge.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\bin\Debug\net9.0\20-Fizz_Buzz_Challenge.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\bin\Debug\net9.0\20-Fizz_Buzz_Challenge.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\bin\Debug\net9.0\20-Fizz_Buzz_Challenge.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\obj\Debug\net9.0\20-Fizz_Buzz_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\obj\Debug\net9.0\20-Fizz_Buzz_Challenge.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\obj\Debug\net9.0\20-Fizz_Buzz_Challenge.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\obj\Debug\net9.0\20-Fizz_Buzz_Challenge.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\obj\Debug\net9.0\20-Fizz_Buzz_Challenge.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\obj\Debug\net9.0\refint\20-Fizz_Buzz_Challenge.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\obj\Debug\net9.0\20-Fizz_Buzz_Challenge.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\obj\Debug\net9.0\20-Fizz_Buzz_Challenge.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\20-Fizz_Buzz_Challenge\obj\Debug\net9.0\ref\20-Fizz_Buzz_Challenge.dll
